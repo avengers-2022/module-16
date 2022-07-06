@@ -9,3 +9,5 @@
 16-4 Variable name naming convention and best practice
 
 16-5 Simple Mathematical operations in JavaScript
+
+16-6 (advanced) Mathematical operation shorthand
