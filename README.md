@@ -16,3 +16,4 @@
 
 16-8 Different variable types and use toFixed with parseFloat
 
+16-9 Module Summary and remainder modulus
