@@ -7,3 +7,5 @@
 16-3 Variable type, Numeric, String, Boolean
 
 16-4 Variable name naming convention and best practice
+
+16-5 Simple Mathematical operations in JavaScript
