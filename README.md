@@ -14,3 +14,5 @@
 
 16-7 (advanced) Integer float parseInt parseFloat type conversion
 
+16-8 Different variable types and use toFixed with parseFloat
+
