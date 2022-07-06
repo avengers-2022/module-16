@@ -5,3 +5,5 @@
 16-2 What is variable, five things you need to declare a variable
 
 16-3 Variable type, Numeric, String, Boolean
+
+16-4 Variable name naming convention and best practice
